@@ -1,0 +1,23 @@
+@import "header.css";
+@import "nav.css";
+@import "imagem.css";
+@import "mesdocha.css";
+@import "locations.css";
+@import "footer.css";
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+    opacity: 0.9;
+    text-align: center;
+}
+main{
+    justify-content: center;
+    align-items: center;
+}

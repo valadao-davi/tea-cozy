@@ -1,0 +1,17 @@
+.contatos{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.container1{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.copyright{
+    text-align: left;
+    margin-left: 20px;
+}

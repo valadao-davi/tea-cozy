@@ -1,0 +1,27 @@
+.mesdocha{
+    width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+.titulo{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 10px;
+}
+h3{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.imagem{
+    height: 200px;
+    width: 300px;
+}
+#imagens{
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
